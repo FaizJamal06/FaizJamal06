@@ -1,11 +1,11 @@
 <h2 align="left">Faiz Jamal — creatively chaotic, caffeinated, Techy and buff</h2>
 
 <p align="left">
-  Builder by nature, coder by obsession, and gym rat by lifestyle — I’m Faiz Jamal, a walking crossover between Silicon Valley and Gotham.  
-  Currently jamming with the MERN stack, flirting with AI/ML, and diving headfirst into the GenAI rabbit hole.  
-  Creativity’s my pre-workout, clean code is my aesthetic, and every bug I fix earns me +1 XP in charisma.  
-  If it lifts, runs, or learns — I’m probably already working on it.
+  Faiz Jamal — a creative tech enthusiast who lifts heavy and codes harder, balancing biceps with backend.  
+  Currently  diving deep into AI and ML algorithms, MERN stack and grinding through the GenAI landscape (its pretty cool ngl).  
+ I’m all about solving problems, building cool stuff, and leveling up my skills every day. Whether it’s cracking code or tackling new ideas, I bring focus, energy, to get things done right.
 </p>
+
 <br>
 
 ###
