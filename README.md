@@ -1,4 +1,4 @@
-<h2 align="left">Faiz Jamal — creatively chaotic, caffeinated, Techy and buff</h2>
+<h2 align="left">Faiz Jamal creatively chaotic, caffeinated, Techy and buff</h2>
 
 <p align="left">
   Faiz Jamal — a creative tech enthusiast who lifts heavy and codes harder, balancing biceps with backend.  
