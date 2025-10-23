@@ -1,9 +1,9 @@
-<h2 align="left">Faiz Jamal creatively chaotic, caffeinated, Techy and buff</h2>
+<h2 align="left">Faiz Jamal - creative, chaos, caffeinated, Jacked Nerd</h2>
 
 <p align="left">
   Faiz Jamal — a creative tech enthusiast who lifts heavy and codes harder, balancing biceps with backend.  
   Currently  diving deep into AI and ML algorithms, MERN stack and grinding through the GenAI landscape (its pretty cool ngl).  
- I’m all about solving problems, building cool stuff, and leveling up my skills every day. Whether it’s cracking code or tackling new ideas, I bring focus, energy, to get things done right.
+ I’m all about solving problems, building cool stuff, and leveling up my skills every day.I bring focus, energy, to get things done right.
 </p>
 
 <br>
