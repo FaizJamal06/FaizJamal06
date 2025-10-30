@@ -2,8 +2,8 @@
 
 <p align="left">
   Faiz Jamal — a creative tech enthusiast who lifts heavy and codes harder, balancing biceps with backend.  
-  Currently  diving deep into AI and ML algorithms, MERN stack and grinding through the GenAI landscape (its pretty cool ngl).  
- I’m all about solving problems, building cool stuff, and leveling up my skills every day.I bring focus, energy, to get things done right.
+  Currently  diving deep into AI and ML algorithms, MERN stack and grinding through  GenAI  (its pretty cool ngl).  
+ I’m all about solving problems, building cool stuff, and leveling up my skills .I bring focus, energy, to get things done right.
 </p>
 
 <br>
